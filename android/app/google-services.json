@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647700493345",
+    "project_id": "testloginpage-51057",
+    "storage_bucket": "testloginpage-51057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647700493345:android:5b7c76be1d846f1bdd5f60",
+        "android_client_info": {
+          "package_name": "com.example.register_google_ap_ratkum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647700493345-7jd6fp0tbe54l0r24lr3o449urd07teh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOm-yNhKi0eSbPNgfHhCT6vg9hNYYzeHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647700493345-7jd6fp0tbe54l0r24lr3o449urd07teh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
